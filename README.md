@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# ERC20
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+A ERC20 Token Creation:
 
-Try running some of the following tasks:
+- Deploy Script
+- Airdrop Script
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Link to Sepolia EtherScan: `https://sepolia.etherscan.io/address/0x6d3e6C4FFb1D07D686feE6fbA9A44F78c88D86e3`
